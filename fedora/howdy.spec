@@ -29,6 +29,7 @@ BuildRequires:	polkit-devel
 BuildRequires:	python3-devel	
 Requires:	python3dist(dlib) >= 6.0
 Requires:	python3-opencv
+Requires:	python3-dlib
 Requires:	pam_python
 %endif
 
